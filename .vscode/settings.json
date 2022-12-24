@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "*.java": "java",
-        "uevent.h": "c",
-        "optional": "cpp"
-    }
-}
